@@ -2,7 +2,7 @@ colorama==0.4.3
 cx-oracle==7.3.0
 dnspython==1.16.0
 mysql-connector-python==8.0.19
-pillow==7.0.0
+pillow==8.3.2
 protobuf==3.6.1
 psycopg2-binary==2.8.4
 pytonik==1.9.8a2
