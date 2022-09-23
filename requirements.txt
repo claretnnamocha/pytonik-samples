@@ -3,7 +3,7 @@ cx-oracle==7.3.0
 dnspython==1.16.0
 mysql-connector-python==8.0.19
 pillow==7.0.0
-protobuf==3.6.1
+protobuf==3.18.3
 psycopg2-binary==2.8.4
 pytonik==1.9.8a2
 six==1.14.0
